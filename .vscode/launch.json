@@ -11,13 +11,13 @@
       "args": ["runserver"],
       "django": true,
       "autoStartBrowser": false,
-      "program": "${workspaceFolder}\\projeto_django_recipes\\manage.py"
+      "program": "${workspaceFolder}\\manage.py"
     },
     {
       "name": "Python Debugger: Django",
       "type": "debugpy",
       "request": "launch",
-      "program": "${workspaceFolder}\\projeto_django_recipes\\manage.py",
+      "program": "${workspaceFolder}\\manage.py",
       "args": ["runserver"],
       "django": true
     }
